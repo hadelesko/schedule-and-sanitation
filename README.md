@@ -10,5 +10,7 @@ For the sanitation part.
 - The sanitation can update the production-line status(washing-running, down for wash,  passed/failed the test) and the worker can access the status of their line anytime everywhere.
 Technologies:
 Java, Spring Boot,Thymeleaf css, html, Bootstrap Javascript 
+
 What I'll Have to Learn? 
+...
  
